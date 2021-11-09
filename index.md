@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="PrCVfwxHMrfw-RE0zp0FwM9rHMfb_65ncViXqT-W74E" />
+
 Avant de commencer je vous propose d'installer un editeur qui vas nous permettre de pouvoir créer un site en HTML.
 Je vous en donne deux un GRATUIT et un PAYANT :
 
